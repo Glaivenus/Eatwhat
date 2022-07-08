@@ -2,7 +2,7 @@
 On developing
 
 A random monitor to determine what to eat today.
-All ext are in Chinese now.
+All text are in Chinese now.
 
 Goals:
 Will later add English version, and switch by a button.
